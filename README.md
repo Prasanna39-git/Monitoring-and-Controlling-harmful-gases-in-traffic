@@ -1,0 +1,2 @@
+# Monitoring-and-Controlling-harmful-gases-in-traffic
+Air pollution caused by traffic emissions is a growing concern in urban areas. Harmful gases like Carbon Monoxide (CO), Nitrogen Oxides (NOx), Sulfur Dioxide (SO₂), and particulate matter contribute to respiratory diseases and environmental degradation. The Internet of Things (IoT) provides an efficient way to monitor and control the harmful gases.
